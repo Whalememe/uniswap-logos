@@ -1,0 +1,27 @@
+{
+  "name": "DOG Meme Token List",
+  "timestamp": "2024-11-27T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x131c1d2eef8c4fd641a0ea487dadcf33371346dd", 
+      "name": "$DOG",
+      "symbol": "$DOG",
+      "decimals": 18,
+      "logoURI": "https://whalememe.github.io/uniswap-logos/0x131c1d2eef8c4fd641a0ea487dadcf33371346dd.png"
+    }
+  ],
+  "keywords": ["meme", "dog", "crypto"],
+  "tags": {
+    "meme_token": {
+      "name": "Meme Token",
+      "description": "Tokens inspired by internet culture and memes."
+    }
+  }
+}
+
